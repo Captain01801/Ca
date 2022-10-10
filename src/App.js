@@ -68,6 +68,9 @@ function App() {
           <button onClick={calculate}>=</button>
           </div>
      </div>
+     <div>
+      <h1>Nice</h1>
+     </div>
     </div>
   );
 }
