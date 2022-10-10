@@ -69,7 +69,6 @@ function App() {
           </div>
      </div>
      <div>
-      <h1>Nice</h1>
      </div>
     </div>
   );
